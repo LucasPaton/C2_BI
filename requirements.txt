@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+psycopg2-binary
+tqdm
+python-dateutil
+streamlit
+matplotlib
+numpy

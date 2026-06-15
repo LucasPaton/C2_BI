@@ -1,0 +1,34 @@
+# ── Dados ──────────────────────────────────────────────
+MICRODADOS.csv
+*.csv
+
+# ── Documentos do tutorial ────────────────────────────
+tutorial_dw_covid.pdf
+*.pdf
+
+# ── Python ────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter ───────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── IDE ───────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── OS ────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
